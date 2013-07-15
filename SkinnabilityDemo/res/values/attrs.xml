@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="edittextStyle" format="reference" />
+    <attr name="ratingstyle" format="reference" />
+    <attr name="imageStyle" format="reference" />
+    <attr name="backgroundStyle" format="reference" />
+    <attr name="roundedbgstyle" format="reference" />
+    <attr name="spinnerbgstyle" format="reference" />
+    <attr name="spinnerTextBgStyle" format="reference" />
+    <attr name="checkBoxStyle" format="reference" />
+
+    <!-- Default style for CheckBoxPreference. -->
+    <attr name="linearLayoutStyle" format="reference" />
+
+    <declare-styleable name="CustomLinearLayout">
+        <attr name="roundedCorner" format="boolean" />
+        <attr name="roundedBackgroud" format="reference" />
+        <attr name="android:background" />
+    </declare-styleable>
+
+</resources>

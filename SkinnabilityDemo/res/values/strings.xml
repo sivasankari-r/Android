@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skinnability Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="skin_demo">Skinnability Demo</string>
+    <string name="image">image</string>
+    <string name="galaxy_s4">Samsung Galaxy S4</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="add_to_compare">Add to Compare</string>
+    <string name="send_details_to">Send device details to</string>
+    <string name="mail_to">Mail to</string>
+    <string name="theme_blue">Theme Blue</string>
+    <string name="theme_green">Theme Green</string>
+
+</resources>

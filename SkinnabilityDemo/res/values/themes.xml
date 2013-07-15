@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme" parent="android:Theme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.Blue" parent="@android:style/Theme.Holo">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:textViewStyle">@style/CustomTextView.Blue_Text</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        
+        <item name="edittextStyle">@style/CustomTextView.Blue_Text</item>
+        <item name="ratingstyle">@style/Rating_Blue</item>
+        <item name="imageStyle"> @style/Image_Blue</item>
+        <item name="backgroundStyle"> @style/Bg_Blue</item>
+        <item name="roundedbgstyle"> @style/Rounded_Bg_Blue</item>
+        <item name="spinnerbgstyle">  @style/Spinner_Blue</item>
+        <item name="spinnerTextBgStyle">@style/Spinner_Bg_Blue</item>
+        <item name="checkBoxStyle">@style/CustomCheckBoxBlue</item>
+        
+        
+    </style>
+
+    <style name="Theme.Green" parent="@android:style/Theme.Holo">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionBarStyle">@style/MyActionBar_Green</item>
+        <item name="android:textViewStyle">@style/CustomTextView.Green_Text</item>
+        
+        <item name="edittextStyle">@style/CustomTextView.Green_Text</item>
+        <item name="ratingstyle">@style/Rating_Green</item>
+        <item name="imageStyle"> @style/Image_Green</item>
+        <item name="backgroundStyle"> @style/Bg_Green</item>
+        <item name="roundedbgstyle">  @style/Rounded_Bg_Green</item>
+        <item name="spinnerbgstyle">  @style/Spinner_Green</item>
+        <item name="spinnerTextBgStyle"> @style/Spinner_Bg_Green</item>
+        <item name="checkBoxStyle">@style/CustomCheckBoxGreen</item>
+        
+    </style>
+
+</resources>
